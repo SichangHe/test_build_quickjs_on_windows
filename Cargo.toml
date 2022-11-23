@@ -6,4 +6,4 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-katex = { version = "0.4", default-features = false, features = ["duktape"] }
+ducc-sys = "0.1.2"
